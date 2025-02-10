@@ -1,0 +1,7 @@
+{
+    "/en/docs/ftc/": [
+        { "text": "🏠 Home", "link": "/en/docs/ftc/index.md" },
+        { "text": "📜 Mission Statement", "link": "/en/docs/ftc/mission-statement.md" }
+    ]
+}
+

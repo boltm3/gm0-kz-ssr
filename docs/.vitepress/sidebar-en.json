@@ -1,0 +1,52 @@
+{
+    "/en/docs/ftc/": [
+        {
+            "text": "Home",
+            "link": "/en/docs/ftc/index"
+        },
+        {
+            "text": "Mission Statement",
+            "link": "/en/docs/ftc/mission-statement"
+        },
+        {
+            "text": "Start Here",
+            "link": "/en/docs/ftc/start-here"
+        },
+        {
+            "text": "Know Your Lingo",
+            "link": "/en/docs/ftc/know-your-lingo"
+        },
+        {
+            "text": "Being a Team",
+            "link": "/en/docs/ftc/being-a-team/index",
+            "items": [
+                {
+                    "text": "Starting a Team",
+                    "link": "/en/docs/ftc/being-a-team/starting-a-team"
+                },
+                {
+                    "text": "Team Organization",
+                    "link": "/en/docs/ftc/being-a-team/team-organization"
+                },
+                {
+                    "text": "Collaboration and Efficiency",
+                    "link": "/en/docs/ftc/being-a-team/collaboration-and-efficiency"
+                }
+            ]
+        },
+        {
+            "text": "Design Skills",
+            "link": "/en/docs/ftc/design-skills/index",
+            "items": [
+                {
+                    "text": "Engineering Design Process",
+                    "link": "/en/docs/ftc/design-skills/engineering-design-process"
+                },
+                {
+                    "text": "Design Strategy",
+                    "link": "/en/docs/ftc/design-skills/design-strategy"
+                }
+            ]
+        }
+    ]
+}
